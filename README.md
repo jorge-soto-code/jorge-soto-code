@@ -30,7 +30,7 @@ Actualmente estoy buscando una oportunidad laboral o de prácticas. Una posició
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-También tengo conocimientos en Canva, Catku y metodologías ágiles. Actualmente continúo organizando y fortaleciendo mi perfil de GitHub.
+También tengo conocimientos en Canva, CatCup y metodologías ágiles. Actualmente continúo organizando y fortaleciendo mi perfil de GitHub.
 
 ## Proyectos destacados
 Estos proyectos representan distintas etapas de mi aprendizaje:
